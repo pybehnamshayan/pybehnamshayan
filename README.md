@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🌍 <b>Open to Data Analyst Opportunities in Germany 🇩🇪</b>
+  🌍 <b>Open to Data Analyst Opportunities in Germany 🇩🇪 & Switzerland 🇨🇭</b>
 </p>
 
 <p align="center">
@@ -29,12 +29,26 @@
 
 ---
 
-<h2 align="center">🔥 Flagship AI Automation Projects</h2>
-<p align="center"><b>End-to-end n8n workflows combining LLMs, live APIs, and business reporting</b></p>
+<h2 align="center">🔥 Flagship Projects</h2>
+<p align="center"><b>End-to-end analytics & AI automation — from data warehousing to LLM-powered workflows</b></p>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🛒 [Olist Customer Analytics Platform](https://github.com/pybehnamshayan/olist-e2e-project)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+End-to-end **Data Warehouse + BI** solution: star schema, ETL, RFM segmentation, and churn intelligence on the Olist e-commerce dataset.
+
+📈 **Found a +65.8% revenue opportunity** ($2.47M) by identifying lost high-value customers.
+
+✔ Star Schema & ETL ✔ RFM Segmentation ✔ Power BI Dashboards
+
+**[→ View Repository](https://github.com/pybehnamshayan/olist-e2e-project)**
+
+</td>
+<td width="33%" valign="top">
 
 ### 🪙 [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white) ![CoinGecko](https://img.shields.io/badge/-CoinGecko%20API-8DC647?style=flat-square)
@@ -46,7 +60,7 @@ A **guardrailed AI agent** that takes a user's risk profile, pulls **live crypto
 **[→ View Repository](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 📊 [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--5--mini-412991?style=flat-square&logo=openai&logoColor=white) ![RSS](https://img.shields.io/badge/-Google%20News%20RSS-F26522?style=flat-square)
@@ -62,6 +76,9 @@ An **AI competitive-intelligence pipeline** that aggregates telecom news, classi
 </table>
 
 <p align="center">
+  <a href="https://github.com/pybehnamshayan/olist-e2e-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=olist-e2e-project&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=ai-crypto-investment-advisor-n8n&theme=tokyonight&hide_border=true" />
   </a>
@@ -147,11 +164,10 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 
 ### 🚀 More Projects
 
-> 🔥 My two flagship **AI Automation** projects are showcased at the top of this profile — see above.
+> 🔥 My three flagship projects (Olist Analytics Platform + 2 AI Automation projects) are showcased at the top of this profile — see above.
 
 | Project | Focus | Highlights |
 |---|---|---|
-| ⭐ [Olist End-to-End Analytics](https://github.com/pybehnamshayan/olist-e2e-project) | Business Intelligence | ETL · Star Schema · SQL Server · Power BI · Customer KPIs |
 | ⭐ [Customer RFM Segmentation](https://github.com/pybehnamshayan/Customer-RFM-Segmentation) | Customer Analytics | RFM Modeling · Segmentation · Business Insights |
 | ⭐ [Global Sales Analysis](https://github.com/pybehnamshayan/Global-sales-analysis) | Data Analysis | EDA · Sales Trends · Visualization |
 | ⭐ [Step Two of Sales Analyses](https://github.com/pybehnamshayan/Step-tow-of-sales-analyses) | Data Analysis | Advanced EDA · Reporting |
@@ -173,7 +189,7 @@ Business Problem → Data Collection → Cleaning → EDA
 
 ### 📈 Business Impact
 
-- Built end-to-end analytics solutions using star schema data modeling and Power BI dashboards.
+- Built end-to-end analytics solutions using star schema data modeling and Power BI dashboards — identified a **+65.8% ($2.47M) revenue opportunity** through customer retention analysis on the Olist dataset.
 - Developed machine learning models for customer segmentation, sales forecasting, and exploratory analysis across multiple domains.
 - Built AI-powered automation workflows with n8n — combining API integration and prompt engineering to collect, analyze, and report data automatically.
 - Bridged 13+ years of operational/customer knowledge with modern data analytics tooling.
