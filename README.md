@@ -101,6 +101,17 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 
 ---
 
+### 🎓 Education
+
+| Degree | Field | GPA |
+|---|---|---|
+| 🎓 Bachelor's Degree | Civil Engineering | 16.7 / 20 |
+| 📘 Associate's Degree | Civil Engineering | 17 / 20 |
+
+<p align="center"><i>An engineering foundation in analytical thinking, later applied to data & business analytics.</i></p>
+
+---
+
 ### 🧭 Career Journey
 
 ```
