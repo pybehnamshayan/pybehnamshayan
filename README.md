@@ -63,7 +63,8 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 - Customer Analytics & Business Intelligence
 - Data Warehousing & Dashboard Development
 - Machine Learning for business use cases
-- Learning Azure, Databricks & PySpark for Data Engineering
+- Workflow Automation with n8n, AI & Prompt Engineering
+- API Integration & Consumption
 
 ---
 
@@ -77,9 +78,27 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 
 **Database:** ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) SQLite
 
-**Development:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) FastAPI · Streamlit · n8n · VS Code
+**Automation & AI:** ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) Workflow Automation · Prompt Engineering · AI Agents
 
-**Currently Learning:** Azure · Databricks · PySpark
+**APIs:** ![API](https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white) API Integration · API Consumption & Testing · Webhooks
+
+**Development:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) FastAPI · Streamlit · VS Code
+
+---
+
+### 🌱 Currently Learning
+
+<div align="center">
+
+| | |
+|---|---|
+| ☁️ **Azure** | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) |
+| 🧱 **Databricks** | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) |
+| ⚡ **PySpark** | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) |
+
+</div>
+
+<p align="center"><i>Actively leveling up toward Cloud & Data Engineering 🚀</i></p>
 
 ---
 
@@ -93,6 +112,7 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 | ⭐ [Step Two of Sales Analyses](https://github.com/pybehnamshayan/Step-tow-of-sales-analyses) | Data Analysis | Advanced EDA · Reporting |
 | ⭐ [First Step Analyses](https://github.com/pybehnamshayan/First-step-analyses) | Data Analysis | Foundational sales-data analysis |
 | ⭐ [Indian Food Analysis](https://github.com/pybehnamshayan/Indian-Food-Analysis) | Exploratory Analysis | Data Cleaning · EDA · Visualization |
+| ⭐ AI-Powered Telecom News Automation | Automation & AI | n8n · GPT · Prompt Engineering · API Integration · Automated HTML Reports |
 
 > 💡 More projects are available on my [repositories page](https://github.com/pybehnamshayan?tab=repositories) — this table will be updated as new projects are added.
 
@@ -111,6 +131,7 @@ Business Problem → Data Collection → Cleaning → EDA
 
 - Built end-to-end analytics solutions using star schema data modeling and Power BI dashboards.
 - Developed machine learning models for customer segmentation, sales forecasting, and exploratory analysis across multiple domains.
+- Built AI-powered automation workflows with n8n — combining API integration and prompt engineering to collect, analyze, and report data automatically.
 - Bridged 13+ years of operational/customer knowledge with modern data analytics tooling.
 
 ---
