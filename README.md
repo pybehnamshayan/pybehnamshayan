@@ -102,6 +102,23 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 
 ---
 
+### 🤖 Flagship AI Automation Projects
+
+<p align="center">
+  <a href="https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=ai-crypto-investment-advisor-n8n&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/pybehnamshayan/n8n_analysis_news_irancell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=n8n_analysis_news_irancell&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+**🪙 [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)** — a guardrailed n8n + GPT-4o-mini workflow that reads a user's risk profile, pulls live prices from CoinGecko, runs a scenario-based (never buy/sell) AI analysis, charts 30-day trends, and emails a full report — with built-in risky-behavior detection and API-failure fallbacks.
+
+**📊 [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)** — an end-to-end n8n + GPT-5-mini pipeline that aggregates telecom news via RSS, classifies and analyzes it with an LLM acting as a competitive-intelligence analyst, and auto-delivers an executive HTML report by email.
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Focus | Highlights |
@@ -112,7 +129,6 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 | ⭐ [Step Two of Sales Analyses](https://github.com/pybehnamshayan/Step-tow-of-sales-analyses) | Data Analysis | Advanced EDA · Reporting |
 | ⭐ [First Step Analyses](https://github.com/pybehnamshayan/First-step-analyses) | Data Analysis | Foundational sales-data analysis |
 | ⭐ [Indian Food Analysis](https://github.com/pybehnamshayan/Indian-Food-Analysis) | Exploratory Analysis | Data Cleaning · EDA · Visualization |
-| ⭐ AI-Powered Telecom News Automation | Automation & AI | n8n · GPT · Prompt Engineering · API Integration · Automated HTML Reports |
 
 > 💡 More projects are available on my [repositories page](https://github.com/pybehnamshayan?tab=repositories) — this table will be updated as new projects are added.
 
