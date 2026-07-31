@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Behnam Shayan 👋</h1>
 <h3 align="center">Customer Operations → Data Analytics</h3>
-<h4 align="center">Transforming business problems into data-driven decisions</h4>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Data+Analyst;Customer+Analytics;Business+Intelligence;Python+Developer;Building+End-to-End+Data+Solutions;Learning+Data+Engineering" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -11,6 +14,11 @@
 
 <p align="center">
   🌍 <b>Open to Data Analyst Opportunities in Germany 🇩🇪</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pybehnamshayan&label=Profile%20Views&color=2E86C1&style=flat" />
+  <img src="https://img.shields.io/github/followers/pybehnamshayan?label=Followers&style=flat&color=2E86C1" />
 </p>
 
 <p align="center">
@@ -120,16 +128,24 @@ Business Problem → Data Collection → Cleaning → EDA
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pybehnamshayan&show_icons=true&theme=default&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pybehnamshayan&layout=compact&theme=default" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pybehnamshayan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pybehnamshayan&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pybehnamshayan&theme=default" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pybehnamshayan&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pybehnamshayan&theme=github-compact" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pybehnamshayan&theme=react-dark&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pybehnamshayan&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
