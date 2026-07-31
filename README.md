@@ -29,6 +29,49 @@
 
 ---
 
+<h2 align="center">🔥 Flagship AI Automation Projects</h2>
+<p align="center"><b>End-to-end n8n workflows combining LLMs, live APIs, and business reporting</b></p>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🪙 [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white) ![CoinGecko](https://img.shields.io/badge/-CoinGecko%20API-8DC647?style=flat-square)
+
+A **guardrailed AI agent** that takes a user's risk profile, pulls **live crypto prices**, runs a scenario-based analysis (never a buy/sell call), charts 30-day trends, and emails a full report.
+
+✔ Risky-behavior detection ✔ API-failure fallback ✔ Automated email reports
+
+**[→ View Repository](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--5--mini-412991?style=flat-square&logo=openai&logoColor=white) ![RSS](https://img.shields.io/badge/-Google%20News%20RSS-F26522?style=flat-square)
+
+An **AI competitive-intelligence pipeline** that aggregates telecom news, classifies it, runs LLM analysis as a senior analyst, and auto-delivers an **executive HTML report**.
+
+✔ Multi-source RSS aggregation ✔ Risk & opportunity analysis ✔ Prompt engineering
+
+**[→ View Repository](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=ai-crypto-investment-advisor-n8n&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/pybehnamshayan/n8n_analysis_news_irancell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=n8n_analysis_news_irancell&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 📌 About Me
 
 My professional journey started in **Customer Operations**, where I spent more than **13 years** solving customer and business challenges in the telecom industry.
@@ -102,24 +145,9 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 
 ---
 
-### 🤖 Flagship AI Automation Projects
+### 🚀 More Projects
 
-<p align="center">
-  <a href="https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=ai-crypto-investment-advisor-n8n&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/pybehnamshayan/n8n_analysis_news_irancell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=n8n_analysis_news_irancell&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-**🪙 [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)** — a guardrailed n8n + GPT-4o-mini workflow that reads a user's risk profile, pulls live prices from CoinGecko, runs a scenario-based (never buy/sell) AI analysis, charts 30-day trends, and emails a full report — with built-in risky-behavior detection and API-failure fallbacks.
-
-**📊 [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)** — an end-to-end n8n + GPT-5-mini pipeline that aggregates telecom news via RSS, classifies and analyzes it with an LLM acting as a competitive-intelligence analyst, and auto-delivers an executive HTML report by email.
-
----
-
-### 🚀 Featured Projects
+> 🔥 My two flagship **AI Automation** projects are showcased at the top of this profile — see above.
 
 | Project | Focus | Highlights |
 |---|---|---|
