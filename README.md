@@ -2,7 +2,10 @@
 <h3 align="center">Customer Operations → Data Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Data+Analyst;Customer+Analytics;Business+Intelligence;Python+Developer;Building+End-to-End+Data+Solutions;Learning+Data+Engineering" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=70&lines=Data+Analyst;Customer+Analytics;Business+Intelligence;Python+Developer;Building+End-to-End+Data+Solutions;Learning+Data+Engineering"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
