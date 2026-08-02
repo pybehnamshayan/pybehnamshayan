@@ -4,12 +4,15 @@
 
 <h1 align="center">
   Hi, I'm Behnam Shayan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">
 </h1>
 
 <h3 align="center">
-Data Analyst • Python • SQL • Power BI • Machine Learning
+  Data Analyst • Python • SQL • Power BI • Machine Learning
 </h3>
+
+<p align="center">
+  <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=70&lines=Data+Analyst;Customer+Analytics;Business+Intelligence;Python+Developer;Building+End-to-End+Data+Solutions;Learning+Data+Engineering"
     alt="Typing SVG"
   />
