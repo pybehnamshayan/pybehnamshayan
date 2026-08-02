@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Behnam%20Shayan&fontSize=42&color=0:2563eb,100:06b6d4&height=200&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:06b6d4&text=Behnam%20Shayan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Turning%20Data%20into%20Business%20Decisions&descAlignY=58&descSize=20&animation=fadeIn" />
 </h1>
 
 <h1 align="center">
