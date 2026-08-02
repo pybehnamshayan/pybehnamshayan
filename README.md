@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Behnam%20Shayan&fontSize=42&color=0:2563eb,100:06b6d4&height=200&animation=fadeIn&fontAlignY=35" />
 </h1>
 
-<h1 align="center">Hi, I'm Behnam Shayan 👋</h1>
+<h1 align="center">
+  Hi, I'm Behnam Shayan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 <h3 align="center">Customer Operations → Data Analytics</h3>
 
 <p align="center">
