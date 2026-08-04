@@ -25,9 +25,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-013243?style=flat&logo=scikitlearn&logoColor=white" />
 </p>
 
-<p align="center">
-  <b>🌍 Open to Data Analyst Opportunities in Germany 🇩🇪 | Switzerland 🇨🇭 | The Netherlands 🇳🇱</b>
-</p>
+<p align="center"> 🌍 <b>Open to Data Analyst Opportunities in Germany 🇩🇪, Switzerland 🇨🇭 & the Netherlands 🇳🇱</b> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pybehnamshayan&label=Profile%20Views&color=2E86C1&style=flat" />
