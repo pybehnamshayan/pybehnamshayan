@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <b>🌍 Open to Data Analyst Opportunities in Germany 🇩🇪 | Switzerland 🇨🇭 | Netherlands 🇳🇱</b>
+  <b>🌍 Open to Data Analyst Opportunities in Germany 🇩🇪 | Switzerland 🇨🇭 | The Netherlands 🇳🇱</b>
 </p>
 
 <p align="center">
