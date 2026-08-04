@@ -45,7 +45,7 @@
 
 <table align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🛒 [Olist Customer Analytics Platform](https://github.com/pybehnamshayan/olist-e2e-project)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,7 +59,7 @@ End-to-end **Data Warehouse + BI** solution: star schema, ETL, RFM segmentation,
 **[→ View Repository](https://github.com/pybehnamshayan/olist-e2e-project)**
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🪙 [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white) ![CoinGecko](https://img.shields.io/badge/-CoinGecko%20API-8DC647?style=flat-square)
@@ -71,7 +71,7 @@ A **guardrailed AI agent** that takes a user's risk profile, pulls **live crypto
 **[→ View Repository](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)**
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 📊 [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--5--mini-412991?style=flat-square&logo=openai&logoColor=white) ![RSS](https://img.shields.io/badge/-Google%20News%20RSS-F26522?style=flat-square)
@@ -83,7 +83,7 @@ An **AI competitive-intelligence pipeline** that aggregates telecom news, classi
 **[→ View Repository](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)**
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🎯 [German Credit Risk Classification](https://github.com/pybehnamshayan/german-credit-risk-classification)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-9ACD32?style=flat-square)
