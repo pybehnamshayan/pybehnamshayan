@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pybehnamshayan/pybehnamshayan/main/assets/behnam-github-banner-v3.png" alt="Behnam Shayan Banner" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/pybehnamshayan/pybehnamshayan/main/assets/behnam-github-banner-merged.png"
+    alt="Behnam Shayan Banner"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">
