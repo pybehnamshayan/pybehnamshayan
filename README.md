@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563eb,100:06b6d4&text=Behnam%20Shayan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Turning%20Data%20into%20Business%20Decisions&descAlignY=58&descSize=20&animation=fadeIn](https://raw.githubusercontent.com/pybehnamshayan/pybehnamshayan/main/assets/behnam-github-banner-v3.png)" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pybehnamshayan/pybehnamshayan/main/assets/behnam-github-banner-v3.png" alt="Behnam Shayan Banner" width="100%">
+</p>
 
 <h1 align="center">
   Hi, I'm Behnam Shayan
