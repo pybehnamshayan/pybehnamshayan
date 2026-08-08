@@ -65,26 +65,16 @@ End-to-end **Data Warehouse + BI** solution: star schema, ETL, RFM segmentation,
 </td>
 <td width="25%" valign="top">
 
-### 🪙 [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white) ![CoinGecko](https://img.shields.io/badge/-CoinGecko%20API-8DC647?style=flat-square)
+### 🔄 [Excel-to-SQL Automated Market Data Pipeline](https://github.com/pybehnamshayan/excel-sql-market-pipeline)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-A **guardrailed AI agent** that takes a user's risk profile, pulls **live crypto prices**, runs a scenario-based analysis (never a buy/sell call), charts 30-day trends, and emails a full report.
+An **unattended ETL pipeline** that drives Excel's live web data connection via COM automation, detects genuine price changes, and loads a clean historical dataset into SQL Server for Power BI reporting.
 
-✔ Risky-behavior detection ✔ API-failure fallback ✔ Automated email reports
+📈 **Fully automated, zero manual steps** — from web refresh to database to dashboard.
 
-**[→ View Repository](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)**
+✔ Headless Excel Automation ✔ Change-Data Tracking ✔ Scheduled ETL
 
-</td>
-<td width="25%" valign="top">
-
-### 📊 [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--5--mini-412991?style=flat-square&logo=openai&logoColor=white) ![RSS](https://img.shields.io/badge/-Google%20News%20RSS-F26522?style=flat-square)
-
-An **AI competitive-intelligence pipeline** that aggregates telecom news, classifies it, runs LLM analysis as a senior analyst, and auto-delivers an **executive HTML report**.
-
-✔ Multi-source RSS aggregation ✔ Risk & opportunity analysis ✔ Prompt engineering
-
-**[→ View Repository](https://github.com/pybehnamshayan/n8n_analysis_news_irancell)**
+**[→ View Repository](https://github.com/pybehnamshayan/excel-sql-market-pipeline)**
 
 </td>
 <td width="25%" valign="top">
@@ -101,6 +91,18 @@ A tuned, interpretable **credit risk classification model**, benchmarked against
 **[→ View Repository](https://github.com/pybehnamshayan/german-credit-risk-classification)**
 
 </td>
+<td width="25%" valign="top">
+
+### 🪙 [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white) ![CoinGecko](https://img.shields.io/badge/-CoinGecko%20API-8DC647?style=flat-square)
+
+A **guardrailed AI agent** that takes a user's risk profile, pulls **live crypto prices**, runs a scenario-based analysis (never a buy/sell call), charts 30-day trends, and emails a full report.
+
+✔ Risky-behavior detection ✔ API-failure fallback ✔ Automated email reports
+
+**[→ View Repository](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)**
+
+</td>
 </tr>
 </table>
 
@@ -108,14 +110,14 @@ A tuned, interpretable **credit risk classification model**, benchmarked against
   <a href="https://github.com/pybehnamshayan/olist-e2e-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=olist-e2e-project&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=ai-crypto-investment-advisor-n8n&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/pybehnamshayan/n8n_analysis_news_irancell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=n8n_analysis_news_irancell&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/pybehnamshayan/excel-sql-market-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=excel-sql-market-pipeline&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/pybehnamshayan/german-credit-risk-classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=german-credit-risk-classification&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=ai-crypto-investment-advisor-n8n&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -207,10 +209,11 @@ Today, I enjoy turning complex customer and operational data into clear, actiona
 
 ### 🚀 More Projects
 
-> 🔥 My three flagship projects (Olist Analytics Platform + 2 AI Automation projects) are showcased at the top of this profile — see above.
+> 🔥 My four flagship projects (Olist Analytics Platform, Excel-to-SQL Pipeline, German Credit Risk Classification, and AI Crypto Investment Advisor) are showcased at the top of this profile — see above.
 
 | Project | Focus | Highlights |
 |---|---|---|
+| ⭐ [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell) | AI Automation | Multi-source RSS aggregation · LLM analysis · Executive HTML reports |
 | ⭐ [Customer RFM Segmentation](https://github.com/pybehnamshayan/Customer-RFM-Segmentation) | Customer Analytics | RFM Modeling · Segmentation · Business Insights |
 | ⭐ [Global Sales Analysis](https://github.com/pybehnamshayan/Global-sales-analysis) | Data Analysis | EDA · Sales Trends · Visualization |
 | ⭐ [Step Two of Sales Analyses](https://github.com/pybehnamshayan/Step-tow-of-sales-analyses) | Data Analysis | Advanced EDA · Reporting |
