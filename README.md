@@ -125,13 +125,31 @@ A **guardrailed AI agent** that takes a user's risk profile, pulls **live crypto
 
 ### 📌 About Me
 
-My professional journey started in **Customer Operations**, where I spent more than **13 years** solving customer and business challenges in the telecom industry.
+I turn customer and operational data into actionable business decisions — helping organizations understand **what is happening, why, and where to act**.
 
-Over the years, I became increasingly interested in the data behind business decisions — that curiosity led me into **Data Analytics**.
+Over the past year, I built an **end-to-end analytics platform** using SQL Server, Python ETL, Power BI, and a Star Schema warehouse, based on the Olist Brazilian E-Commerce public dataset. The analysis identified **$2.47M in potential recoverable revenue** from churned high-value customers and translated the findings into actionable retention opportunities. The complete project — warehouse, ETL pipeline, analysis, and Power BI dashboards — is available above under Flagship Projects.
 
-Since then, I've continuously built skills in **SQL, Python, Power BI, Data Warehousing, and Machine Learning**, working through real projects that take raw data all the way to business insight.
+I started my career in **customer operations at MTN Irancell**, one of the largest telecom operators in the Middle East. After 13 years working closely with customers, products, services, and operational processes, I developed an operational perspective that helps me understand the business context behind the numbers — not just the numbers themselves.
 
-Today, I enjoy turning complex customer and operational data into clear, actionable decisions — combining strong technical skills with real business understanding.
+Over the past five years, alongside full-time work, I've built my data analytics expertise in **SQL, Python, Power BI, ETL, data warehousing, and dimensional modeling**, applying these skills to real-world projects rather than tutorials.
+
+**What I bring**
+
+- 🎯 **Customer & Business Analytics** — RFM segmentation, churn analysis, retention, revenue opportunity analysis, and root-cause investigation
+- 📊 **Data Analytics** — SQL, Python, Pandas, statistical analysis, and EDA
+- 📈 **Business Intelligence** — Power BI, DAX, Power Query, KPI design, and interactive dashboards
+- 🏗️ **Data Engineering Foundations** — ETL pipelines, SQL Server, Star Schema, dimensional modeling, and data warehouses
+- 🤖 **Machine Learning** — scikit-learn and LightGBM for classification, prediction, and risk problems
+- ⚡ **AI & Automation** — n8n workflows, LLM integration, and automated reporting
+
+My strength isn't only building dashboards or writing SQL. I combine data skills with 13 years of customer and operational experience to quickly identify what matters, investigate root causes, and translate findings into business actions.
+
+I'm currently seeking **Data Analyst opportunities in Germany**, particularly in Customer Analytics, Business Intelligence, Operations Analytics, and related data roles.
+
+🌍 Open to relocation to Germany · 💻 Open to remote and hybrid opportunities
+🇬🇧 English: B2 · 🇩🇪 German: Currently learning
+
+**Core Skills:** SQL • Python • Power BI • DAX • Power Query • ETL • Data Warehousing • Dimensional Modeling • Customer Analytics • Business Intelligence • Machine Learning • AI Automation • n8n
 
 ---
 
