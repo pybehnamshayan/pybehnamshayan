@@ -237,6 +237,7 @@ I'm currently seeking **Data Analyst opportunities in Germany**, particularly in
 | ⭐ [Step Two of Sales Analyses](https://github.com/pybehnamshayan/Step-tow-of-sales-analyses) | Data Analysis | Advanced EDA · Reporting |
 | ⭐ [First Step Analyses](https://github.com/pybehnamshayan/First-step-analyses) | Data Analysis | Foundational sales-data analysis |
 | ⭐ [Indian Food Analysis](https://github.com/pybehnamshayan/Indian-Food-Analysis) | Exploratory Analysis | Data Cleaning · EDA · Visualization |
+| ⭐ [Telecom Feedback Sentiment Dashboard](https://github.com/pybehnamshayan/TelecomSentimentAnalysis) | Persian NLP | Streamlit · ParsBERT · TF-IDF · RTL-aware visualization |
 
 > 💡 More projects are available on my [repositories page](https://github.com/pybehnamshayan?tab=repositories) — this table will be updated as new projects are added.
 
