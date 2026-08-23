@@ -65,6 +65,20 @@ End-to-end **Data Warehouse + BI** solution: star schema, ETL, RFM segmentation,
 </td>
 <td width="25%" valign="top">
 
+### 🇩🇪 [Germany Tech Job Market Intelligence](https://github.com/pybehnamshayan/germany-job-market-intelligence)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+An **end-to-end pipeline** analyzing Germany's tech/data job market: real API ingestion from the Bundesagentur für Arbeit, regex-based NLP skill extraction, and an interactive Streamlit dashboard.
+
+📈 Analyzed **830 unique postings across 5 cities** — found Python and SQL are the most in-demand skills, and documented three real false-positive bugs found and fixed during development.
+
+✔ API Ingestion & ETL ✔ NLP Skill Extraction ✔ Streamlit Dashboard
+
+**[→ View Repository](https://github.com/pybehnamshayan/germany-job-market-intelligence)**
+
+</td>
+<td width="25%" valign="top">
+
 ### 🔄 [Excel-to-SQL Automated Market Data Pipeline](https://github.com/pybehnamshayan/excel-sql-market-pipeline)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
@@ -91,18 +105,6 @@ A tuned, interpretable **credit risk classification model**, benchmarked against
 **[→ View Repository](https://github.com/pybehnamshayan/german-credit-risk-classification)**
 
 </td>
-<td width="25%" valign="top">
-
-### 🪙 [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![GPT](https://img.shields.io/badge/-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white) ![CoinGecko](https://img.shields.io/badge/-CoinGecko%20API-8DC647?style=flat-square)
-
-A **guardrailed AI agent** that takes a user's risk profile, pulls **live crypto prices**, runs a scenario-based analysis (never a buy/sell call), charts 30-day trends, and emails a full report.
-
-✔ Risky-behavior detection ✔ API-failure fallback ✔ Automated email reports
-
-**[→ View Repository](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n)**
-
-</td>
 </tr>
 </table>
 
@@ -110,14 +112,14 @@ A **guardrailed AI agent** that takes a user's risk profile, pulls **live crypto
   <a href="https://github.com/pybehnamshayan/olist-e2e-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=olist-e2e-project&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/pybehnamshayan/germany-job-market-intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=germany-job-market-intelligence&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/pybehnamshayan/excel-sql-market-pipeline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=excel-sql-market-pipeline&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/pybehnamshayan/german-credit-risk-classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=german-credit-risk-classification&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pybehnamshayan&repo=ai-crypto-investment-advisor-n8n&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -227,10 +229,11 @@ I'm currently seeking **Data Analyst opportunities in Germany**, particularly in
 
 ### 🚀 More Projects
 
-> 🔥 My four flagship projects (Olist Analytics Platform, Excel-to-SQL Pipeline, German Credit Risk Classification, and AI Crypto Investment Advisor) are showcased at the top of this profile — see above.
+> 🔥 My four flagship projects (Olist Analytics Platform, Germany Tech Job Market Intelligence, Excel-to-SQL Pipeline, and German Credit Risk Classification) are showcased at the top of this profile — see above.
 
 | Project | Focus | Highlights |
 |---|---|---|
+| ⭐ [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n) | AI Automation | n8n Agent · Live Crypto Prices · Scenario Analysis · Automated Email Reports |
 | ⭐ [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell) | AI Automation | Multi-source RSS aggregation · LLM analysis · Executive HTML reports |
 | ⭐ [Customer RFM Segmentation](https://github.com/pybehnamshayan/Customer-RFM-Segmentation) | Customer Analytics | RFM Modeling · Segmentation · Business Insights |
 | ⭐ [Global Sales Analysis](https://github.com/pybehnamshayan/Global-sales-analysis) | Data Analysis | EDA · Sales Trends · Visualization |
