@@ -12,12 +12,12 @@
 </h1>
 
 <h3 align="center">
-  Data Analyst • Python • SQL • Power BI • Machine Learning
+  Data Analyst / BI Analyst — Customer Analytics · Business Intelligence · Operational Analytics
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=70&lines=Data+Analyst;Customer+Analytics;Business+Intelligence;Python+Developer;Building+End-to-End+Data+Solutions;Learning+Data+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=60&lines=Customer+Analytics;Business+Intelligence;Operational+Analytics;End-to-End+Data+Solutions"
     alt="Typing SVG"
   />
 </p>
@@ -26,10 +26,10 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-013243?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-217346?style=flat&logo=microsoft-excel&logoColor=white" />
 </p>
 
-<p align="center"> 🌍 <b>Open to Data Analyst Opportunities in Germany 🇩🇪, Switzerland 🇨🇭 & the Netherlands 🇳🇱</b> </p>
+<p align="center"> 🌍 <b>Open to Data Analyst / BI Analyst Opportunities in Germany 🇩🇪, Switzerland 🇨🇭 & the Netherlands 🇳🇱</b> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pybehnamshayan&label=Profile%20Views&color=2E86C1&style=flat" />
@@ -44,8 +44,20 @@
 
 ---
 
+### 👋 30-Second Summary
+
+**Who I am:** A Data Analyst / BI Analyst with 13+ years of operational and customer-facing experience at MTN Irancell, now specialized in Customer Analytics, Business Intelligence, and Operational Analytics.
+
+**What I do:** I turn customer and operational data into business decisions — segmentation, churn/retention analysis, KPI design, and interactive dashboards, backed by solid SQL/ETL/data-warehousing fundamentals.
+
+**What I'm extending into:** Data Engineering (ETL, Star Schema), Machine Learning (classification/prediction), and AI Automation (n8n, LLM-powered workflows) — tools I use to make analytics faster and more automated, not a separate identity.
+
+**Best examples:** See the four flagship projects below, in order — they tell one consistent story: Business Analytics → Data Pipeline → BI → ML.
+
+---
+
 <h2 align="center">🔥 Flagship Projects</h2>
-<p align="center"><b>End-to-end analytics & AI automation — from data warehousing to LLM-powered workflows</b></p>
+<p align="center"><b>Customer & business analytics, end-to-end — from data warehousing to decision-ready dashboards</b></p>
 
 <table align="center">
 <tr>
@@ -135,95 +147,52 @@ I started my career in **customer operations at MTN Irancell**, one of the large
 
 Over the past five years, alongside full-time work, I've built my data analytics expertise in **SQL, Python, Power BI, ETL, data warehousing, and dimensional modeling**, applying these skills to real-world projects rather than tutorials.
 
-**What I bring**
+**Core — what I do day-to-day**
 
 - 🎯 **Customer & Business Analytics** — RFM segmentation, churn analysis, retention, revenue opportunity analysis, and root-cause investigation
 - 📊 **Data Analytics** — SQL, Python, Pandas, statistical analysis, and EDA
 - 📈 **Business Intelligence** — Power BI, DAX, Power Query, KPI design, and interactive dashboards
+
+**Extended capabilities — tools I use to go further**
+
 - 🏗️ **Data Engineering Foundations** — ETL pipelines, SQL Server, Star Schema, dimensional modeling, and data warehouses
 - 🤖 **Machine Learning** — scikit-learn and LightGBM for classification, prediction, and risk problems
 - ⚡ **AI & Automation** — n8n workflows, LLM integration, and automated reporting
 
 My strength isn't only building dashboards or writing SQL. I combine data skills with 13 years of customer and operational experience to quickly identify what matters, investigate root causes, and translate findings into business actions.
 
-I'm currently seeking **Data Analyst opportunities in Germany**, particularly in Customer Analytics, Business Intelligence, Operations Analytics, and related data roles.
+I'm currently seeking **Data Analyst / BI Analyst opportunities in Germany**, particularly in Customer Analytics, Business Intelligence, Operations Analytics, and related data roles.
 
 🌍 Open to relocation to Germany · 💻 Open to remote and hybrid opportunities
 🇬🇧 English: B2 · 🇩🇪 German: Currently learning
-
-**Core Skills:** SQL • Python • Power BI • DAX • Power Query • ETL • Data Warehousing • Dimensional Modeling • Customer Analytics • Business Intelligence • Machine Learning • AI Automation • n8n
-
----
-
-### 🎓 Education
-
-| Degree | Field | GPA |
-|---|---|---|
-| 🎓 Bachelor's Degree | Civil Engineering | 16.7 / 20 |
-| 📘 Associate's Degree | Civil Engineering | 17 / 20 |
-
-<p align="center"><i>An engineering foundation in analytical thinking, later applied to data & business analytics.</i></p>
 
 ---
 
 ### 🧭 Career Journey
 
 ```
-2012 → Customer Operations
-     → Business Knowledge
-     → Excel & Reporting
-     → SQL
-     → Python
-     → Power BI
-     → Machine Learning
-     → Data Warehousing
-     → End-to-End Analytics
-     → Today
+2012 → Customer Operations → Business Knowledge → Excel & Reporting
+     → SQL → Python → Power BI → ETL / Data Warehousing
+     → End-to-End Analytics → Machine Learning → AI Automation → Today
 ```
-
----
-
-### 🎯 Current Focus
-
-- Customer Analytics & Business Intelligence
-- Data Warehousing & Dashboard Development
-- Machine Learning for business use cases
-- Workflow Automation with n8n, AI & Prompt Engineering
-- API Integration & Consumption
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Core (Analyst / BI):** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) DAX · Power Query
 
-**Analytics:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Analytics & Python:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
-**BI & Reporting:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) Power Query · DAX
+**Data Engineering:** ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) SQLite · Star Schema · ETL
 
-**Database:** ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) SQLite
+**Machine Learning:** ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) LightGBM · AutoML
 
-**Automation & AI:** ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) Workflow Automation · Prompt Engineering · AI Agents
-
-**APIs:** ![API](https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white) API Integration · API Consumption & Testing · Webhooks
+**Automation & AI:** ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) Prompt Engineering · AI Agents
 
 **Development:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) FastAPI · Streamlit · VS Code
 
----
-
-### 🌱 Currently Learning
-
-<div align="center">
-
-| | |
-|---|---|
-| ☁️ **Azure** | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) |
-| 🧱 **Databricks** | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) |
-| ⚡ **PySpark** | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) |
-
-</div>
-
-<p align="center"><i>Actively leveling up toward Cloud & Data Engineering 🚀</i></p>
+**🌱 Currently learning:** Azure · Databricks · PySpark — leveling up toward Cloud & Data Engineering.
 
 ---
 
@@ -231,16 +200,23 @@ I'm currently seeking **Data Analyst opportunities in Germany**, particularly in
 
 > 🔥 My four flagship projects (Olist Analytics Platform, Germany Tech Job Market Intelligence, Excel-to-SQL Pipeline, and German Credit Risk Classification) are showcased at the top of this profile — see above.
 
+**Customer & Business Analytics**
+
 | Project | Focus | Highlights |
 |---|---|---|
-| ⭐ [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n) | AI Automation | n8n Agent · Live Crypto Prices · Scenario Analysis · Automated Email Reports |
-| ⭐ [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell) | AI Automation | Multi-source RSS aggregation · LLM analysis · Executive HTML reports |
 | ⭐ [Customer RFM Segmentation](https://github.com/pybehnamshayan/Customer-RFM-Segmentation) | Customer Analytics | RFM Modeling · Segmentation · Business Insights |
+| ⭐ [Telecom Feedback Sentiment Dashboard](https://github.com/pybehnamshayan/TelecomSentimentAnalysis) | Persian NLP | Streamlit · ParsBERT · TF-IDF · RTL-aware visualization |
 | ⭐ [Global Sales Analysis](https://github.com/pybehnamshayan/Global-sales-analysis) | Data Analysis | EDA · Sales Trends · Visualization |
 | ⭐ [Step Two of Sales Analyses](https://github.com/pybehnamshayan/Step-tow-of-sales-analyses) | Data Analysis | Advanced EDA · Reporting |
 | ⭐ [First Step Analyses](https://github.com/pybehnamshayan/First-step-analyses) | Data Analysis | Foundational sales-data analysis |
 | ⭐ [Indian Food Analysis](https://github.com/pybehnamshayan/Indian-Food-Analysis) | Exploratory Analysis | Data Cleaning · EDA · Visualization |
-| ⭐ [Telecom Feedback Sentiment Dashboard](https://github.com/pybehnamshayan/TelecomSentimentAnalysis) | Persian NLP | Streamlit · ParsBERT · TF-IDF · RTL-aware visualization |
+
+**AI Automation (extended capability, not core focus)**
+
+| Project | Focus | Highlights |
+|---|---|---|
+| ⭐ [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell) | AI Automation | Multi-source RSS aggregation · LLM analysis · Executive HTML reports |
+| ⭐ [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n) | AI Automation | n8n Agent · Live Crypto Prices · Scenario Analysis · Automated Email Reports |
 
 > 💡 More projects are available on my [repositories page](https://github.com/pybehnamshayan?tab=repositories) — this table will be updated as new projects are added.
 
@@ -274,6 +250,17 @@ Business Problem → Data Collection → Cleaning → EDA
 
 ---
 
+### 🎓 Education
+
+| Degree | Field | GPA |
+|---|---|---|
+| 🎓 Bachelor's Degree | Civil Engineering | 16.7 / 20 |
+| 📘 Associate's Degree | Civil Engineering | 17 / 20 |
+
+<p align="center"><i>An engineering foundation in analytical thinking, later applied to data & business analytics.</i></p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -296,14 +283,6 @@ Business Problem → Data Collection → Cleaning → EDA
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pybehnamshayan&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
----
-
-### 💬 Fun Facts
-
-- ☕ Coffee + Python = Productivity
-- 📊 I enjoy turning raw data into business stories
-- 🌍 Currently looking for Data Analyst opportunities in Germany
 
 ---
 
