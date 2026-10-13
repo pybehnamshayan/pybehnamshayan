@@ -145,7 +145,7 @@ Over the past year, I built an **end-to-end analytics platform** using SQL Serve
 
 I started my career in **customer operations at MTN Irancell**, one of the largest telecom operators in the Middle East. After 13 years working closely with customers, products, services, and operational processes, I developed an operational perspective that helps me understand the business context behind the numbers — not just the numbers themselves.
 
-Over the past five years, alongside full-time work, I've built my data analytics expertise in **SQL, Python, Power BI, ETL, data warehousing, and dimensional modeling**, applying these skills to real-world projects rather than tutorials.
+Over the past three years, alongside full-time work, I've built my data analytics expertise in **SQL, Python, Power BI, ETL, data warehousing, and dimensional modeling**, applying these skills to real-world projects rather than tutorials.
 
 **Core — what I do day-to-day**
 
