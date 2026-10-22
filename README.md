@@ -46,9 +46,9 @@
 
 ### 👋 30-Second Summary
 
-**Who I am:** A Data Analyst / BI Analyst with 13+ years of operational and customer-facing experience at MTN Irancell, now specialized in Customer Analytics, Business Intelligence, and Operational Analytics.
+**Who I am:** A Data Analyst / BI Analyst with 13+ years of operational and customer-facing experience at MTN Irancell and 3 years of freelance experience as a Data Analyst & BI Consultant (Barsian Darou, since October 2023), specialized in Customer Analytics, Business Intelligence, and Operational Analytics.
 
-**What I do:** I turn customer and operational data into business decisions — segmentation, churn/retention analysis, KPI design, and interactive dashboards, backed by solid SQL/ETL/data-warehousing fundamentals.
+**What I do:** I turn customer and operational data into business decisions — segmentation, churn/retention analysis, KPI design, revenue and HR analytics, and interactive dashboards, backed by solid SQL/ETL/data-warehousing fundamentals.
 
 **What I'm extending into:** Data Engineering (ETL, Star Schema), Machine Learning (classification/prediction), and AI Automation (n8n, LLM-powered workflows) — tools I use to make analytics faster and more automated, not a separate identity.
 
@@ -141,15 +141,15 @@ A tuned, interpretable **credit risk classification model**, benchmarked against
 
 I turn customer and operational data into actionable business decisions — helping organizations understand **what is happening, why, and where to act**.
 
-Over the past year, I built an **end-to-end analytics platform** using SQL Server, Python ETL, Power BI, and a Star Schema warehouse, based on the Olist Brazilian E-Commerce public dataset. The analysis identified **$2.47M in potential recoverable revenue** from churned high-value customers and translated the findings into actionable retention opportunities. The complete project — warehouse, ETL pipeline, analysis, and Power BI dashboards — is available above under Flagship Projects.
+Since October 2023, I have worked as a freelance **Data Analyst & Business Intelligence Consultant** for Barsian Darou, a pharmaceutical import company. There I build Power BI dashboards for revenue analysis and business performance monitoring, develop HR analytics reports, and translate business reporting requirements into clear KPIs and structured analytical views that improve visibility into revenue trends and workforce indicators.
+
+I also built an **end-to-end analytics platform** using SQL Server, Python ETL, Power BI, and a Star Schema warehouse, based on the Olist Brazilian E-Commerce public dataset. The analysis identified **$2.47M in potential recoverable revenue** from churned high-value customers and translated the findings into actionable retention opportunities. The complete project — warehouse, ETL pipeline, analysis, and Power BI dashboards — is available above under Flagship Projects.
 
 I started my career in **customer operations at MTN Irancell**, one of the largest telecom operators in the Middle East. After 13 years working closely with customers, products, services, and operational processes, I developed an operational perspective that helps me understand the business context behind the numbers — not just the numbers themselves.
 
-Over the past three years, alongside full-time work, I've built my data analytics expertise in **SQL, Python, Power BI, ETL, data warehousing, and dimensional modeling**, applying these skills to real-world projects rather than tutorials.
-
 **Core — what I do day-to-day**
 
-- 🎯 **Customer & Business Analytics** — RFM segmentation, churn analysis, retention, revenue opportunity analysis, and root-cause investigation
+- 🎯 **Customer & Business Analytics** — RFM segmentation, churn analysis, retention, revenue opportunity analysis, HR analytics, and root-cause investigation
 - 📊 **Data Analytics** — SQL, Python, Pandas, statistical analysis, and EDA
 - 📈 **Business Intelligence** — Power BI, DAX, Power Query, KPI design, and interactive dashboards
 
@@ -168,11 +168,30 @@ I'm currently seeking **Data Analyst / BI Analyst opportunities in Germany**, pa
 
 ---
 
+### 💼 Professional Experience
+
+**Data Analyst & Business Intelligence Consultant (Freelance)** — Barsian Darou, pharmaceutical import company · *Oct 2023 – Present*
+
+- Develop Power BI dashboards for revenue analysis and business performance monitoring.
+- Build HR analytics reports to help stakeholders review workforce-related indicators and departmental performance.
+- Translate business reporting requirements into clear dashboards, KPIs, and structured analytical views.
+- Support data-driven decision-making by improving visibility into revenue trends, HR indicators, and operational performance.
+
+**Omni-Channel Contact Center Representative** — MTN Irancell · *Jul 2013 – Present*
+
+- Investigate recurring customer complaints, service issues, and gaps between documented procedures and operational practices.
+- Participate in weekly and monthly operational reviews to identify root causes, clarify process ambiguities, and recommend corrective actions.
+- Evaluate customer responses to products and services to identify improvement opportunities and unmet customer needs.
+- Propose at least five improvement ideas per month, with two recommendations implemented through internal improvement processes.
+
+---
+
 ### 🧭 Career Journey
 
 ```
 2012 → Customer Operations → Business Knowledge → Excel & Reporting
      → SQL → Python → Power BI → ETL / Data Warehousing
+     → Freelance BI & Analytics (Barsian Darou, 2023)
      → End-to-End Analytics → Machine Learning → AI Automation → Today
 ```
 
@@ -233,6 +252,7 @@ Business Problem → Data Collection → Cleaning → EDA
 
 ### 📈 Business Impact
 
+- Built Power BI dashboards for revenue analysis, business performance monitoring, and HR analytics as a freelance consultant for Barsian Darou (since October 2023).
 - Built end-to-end analytics solutions using star schema data modeling and Power BI dashboards — identified a **+65.8% ($2.47M) revenue opportunity** through customer retention analysis on the Olist dataset.
 - Developed machine learning models for customer segmentation, sales forecasting, and exploratory analysis across multiple domains.
 - Built AI-powered automation workflows with n8n — combining API integration and prompt engineering to collect, analyze, and report data automatically.
