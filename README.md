@@ -23,10 +23,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-217346?style=flat" />
 </p>
 
 <p align="center"> 🌍 <b>Open to Data Analyst / BI Analyst / Business Data Analyst roles in Germany 🇩🇪, Switzerland 🇨🇭 & the Netherlands 🇳🇱</b><br>
@@ -58,7 +58,7 @@ Open to relocation · Open to remote and hybrid </p>
 
 <table align="center">
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛒 [Olist Customer Analytics Platform](https://github.com/pybehnamshayan/olist-e2e-project)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -72,7 +72,7 @@ End-to-end **Data Warehouse + BI** solution on the public Olist e-commerce datas
 **[→ View Repository](https://github.com/pybehnamshayan/olist-e2e-project)**
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🇩🇪 [Germany Tech Job Market Intelligence](https://github.com/pybehnamshayan/germany-job-market-intelligence)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -86,21 +86,23 @@ An **end-to-end pipeline** analyzing Germany's tech/data job market: live API in
 **[→ View Repository](https://github.com/pybehnamshayan/germany-job-market-intelligence)**
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔄 [Excel-to-SQL Automated Market Data Pipeline](https://github.com/pybehnamshayan/excel-sql-market-pipeline)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-An **unattended ETL pipeline** that drives Excel's live web data connection via COM automation, detects genuine price changes, avoids duplicate records, logs each run, and loads a clean history into SQL Server for Power BI reporting.
+An **unattended ETL pipeline** that drives Excel's live web data connection via COM automation, detects genuine price changes, avoids duplicate records, logs each run, and loads a clean history into SQL Server for Power BI reporting. Requires Windows + desktop Excel.
 
 📈 **Fully automated** — from web refresh to database, ready for dashboarding.
 
-✔ Headless Excel Automation ✔ Change-Data Tracking ✔ Scheduled ETL & Logging
+✔ Automated Excel COM Integration ✔ Change-Data Tracking ✔ Scheduled ETL & Logging
 
 **[→ View Repository](https://github.com/pybehnamshayan/excel-sql-market-pipeline)**
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎯 [German Credit Risk Classification](https://github.com/pybehnamshayan/german-credit-risk-classification)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-9ACD32?style=flat-square)
@@ -151,7 +153,7 @@ A tuned, interpretable **credit risk classification model**, benchmarked against
 - Supported customers across voice and digital/chat channels in a high-volume telecom environment, with a focus on accuracy, satisfaction, and timely resolution.
 - Investigated recurring complaints and gaps between documented procedures and actual practice to identify root causes and recommend corrective actions.
 - Evaluated customer feedback on existing and newly launched products, identifying pain points and service gaps.
-- Proposed 5+ improvement ideas per month; **2 per month implemented** through the formal process-improvement program.
+- Proposed 5+ process-improvement ideas per month, with **two proposals adopted** through the formal process-improvement program.
 - Built my SQL, Python, Power BI, DAX, ETL, and data-modeling skills alongside this full-time role, through independent end-to-end projects.
 
 ---
@@ -185,14 +187,14 @@ More on my [repositories page](https://github.com/pybehnamshayan?tab=repositorie
 
 ### 🎓 Education & Certifications
 
-| Degree | Field | GPA |
-|---|---|---|
-| 🎓 Bachelor's Degree | Civil Engineering | 16.7 / 20 |
-| 📘 Associate's Degree | Civil Engineering | 17 / 20 |
+| Degree | Field |
+|---|---|
+| 🎓 Bachelor's Degree | Civil Engineering |
+| 📘 Associate's Degree | Civil Engineering |
 
 **Certifications & courses:** SQL Fundamentals · Python · Power BI (beginner to advanced) · Microsoft Excel · Machine Learning Fundamentals
 
-🗣️ **Languages:** Persian (native) · Azerbaijani (native) · Turkish (full professional) · English (professional working, B2) · German (currently learning)
+🗣️ **Languages:** Persian (native) · Azerbaijani (native) · Turkish (full professional) · English (professional working, B2) · German (A1–A2, currently learning)
 
 ---
 
