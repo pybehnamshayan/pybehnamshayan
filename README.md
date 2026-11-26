@@ -47,9 +47,9 @@ Open to relocation · Open to remote and hybrid </p>
 
 **What I do:** I don't just report what happened — I investigate *why*. I turn customer, sales, and operational data into decisions: KPI design, RFM segmentation, churn/retention analysis, revenue opportunity analysis, ROI evaluation, and interactive Power BI dashboards, backed by solid SQL / ETL / data-modeling fundamentals.
 
-**Where I'm growing:** Data Engineering foundations (ETL, Star Schema), Machine Learning, and AI automation — tools that make analytics faster, not a separate identity.
+**Data engineering side:** I build the pipelines and models behind the analysis — ETL, star-schema warehousing, data validation, and automated loads into SQL Server / PostgreSQL — so the numbers in a dashboard are trustworthy and repeatable.
 
-**Best examples:** The four flagship projects below tell one story: Business Analytics → Data Pipeline → BI → ML.
+**Best examples:** The flagship projects below tell one story: Business Analytics → Data Pipeline → BI, plus one predictive-modeling case study.
 
 ---
 
@@ -127,13 +127,9 @@ A tuned, interpretable **credit risk classification model**, benchmarked against
 | **Programming & Analysis** | Python, Pandas, NumPy, Matplotlib |
 | **Databases** | SQL Server, PostgreSQL, SQLite |
 | **Data Engineering Foundations** | ETL, Star Schema, Dimensional Modeling, Data Validation |
-| **Machine Learning** *(developing)* | scikit-learn, LightGBM, AutoML |
-| **Automation & AI** *(developing)* | n8n, OpenAI API, Prompt Engineering |
-| **Development** | Git, Docker, Linux, FastAPI, VS Code |
+| **Tooling** | Git, Docker, Linux, VS Code |
 
-**🌱 Currently learning:** Azure · Databricks · PySpark
-
-**Core focus:** Customer & Commercial Analytics (RFM, churn & retention, revenue and sales analysis, HR analytics, root-cause investigation) · KPI design · Business performance & ROI analysis.
+**Core focus:** Data Analytics & BI (customer & commercial analytics, RFM, churn & retention, revenue and sales analysis, KPI design, ROI analysis) · Data Engineering (ETL pipelines, dimensional modeling, data quality & validation).
 
 ---
 
@@ -182,8 +178,6 @@ A tuned, interpretable **credit risk classification model**, benchmarked against
 | [Step Two of Sales Analyses](https://github.com/pybehnamshayan/Step-tow-of-sales-analyses) | Data Analysis | Advanced EDA · Reporting |
 | [First Step Analyses](https://github.com/pybehnamshayan/First-step-analyses) | Data Analysis | Foundational sales-data analysis |
 | [Indian Food Analysis](https://github.com/pybehnamshayan/Indian-Food-Analysis) | Exploratory Analysis | Data Cleaning · EDA |
-| [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell) | AI Automation | RSS aggregation · LLM analysis · Executive HTML reports |
-| [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n) | AI Automation | n8n Agent · Live prices · Scenario analysis · Automated email reports |
 
 More on my [repositories page](https://github.com/pybehnamshayan?tab=repositories).
 
@@ -196,7 +190,7 @@ More on my [repositories page](https://github.com/pybehnamshayan?tab=repositorie
 | 🎓 Bachelor's Degree | Civil Engineering | 16.7 / 20 |
 | 📘 Associate's Degree | Civil Engineering | 17 / 20 |
 
-**Certifications & courses:** SQL Fundamentals · Python · Power BI (beginner to advanced) · Microsoft Excel · Machine Learning Fundamentals · n8n (MTN Irancell internal training)
+**Certifications & courses:** SQL Fundamentals · Python · Power BI (beginner to advanced) · Microsoft Excel · Machine Learning Fundamentals
 
 🗣️ **Languages:** Persian (native) · Azerbaijani (native) · Turkish (full professional) · English (professional working, B2) · German (currently learning)
 
