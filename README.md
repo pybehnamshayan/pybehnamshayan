@@ -12,12 +12,12 @@
 </h1>
 
 <h3 align="center">
-  Data Analyst / BI Analyst — Customer Analytics · Business Intelligence · Operational Analytics
+  Data Analyst & Business Intelligence Professional — Customer Analytics · Commercial Analytics · Root-Cause Problem Solving
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=60&lines=Customer+Analytics;Business+Intelligence;Operational+Analytics;End-to-End+Data+Solutions"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1000&height=60&lines=Customer+Analytics;Sales+%26+Revenue+Analytics;Business+Intelligence;End-to-End+Data+Solutions"
     alt="Typing SVG"
   />
 </p>
@@ -39,6 +39,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/behnam-shayan-49b2612ba/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/pybehnamshayan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://behnamshayan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&logo=netlify&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pybehnamshayan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -46,13 +47,13 @@
 
 ### 👋 30-Second Summary
 
-**Who I am:** A Data Analyst / BI Analyst with 13+ years of operational and customer-facing experience at MTN Irancell and 3 years of freelance experience as a Data Analyst & BI Consultant (Barsian Darou, since October 2023), specialized in Customer Analytics, Business Intelligence, and Operational Analytics.
+**Who I am:** A Data Analyst & Business Intelligence professional with **13+ years** of customer-facing and operational experience in telecommunications at **MTN Irancell**, and **3+ years** of hands-on BI consulting at **Barsian Darou** (since October 2023), specializing in revenue, sales, customer, and HR analytics.
 
-**What I do:** I turn customer and operational data into business decisions — segmentation, churn/retention analysis, KPI design, revenue and HR analytics, and interactive dashboards, backed by solid SQL/ETL/data-warehousing fundamentals.
+**What I do:** I don't just report what happened — I investigate *why* it happened. I turn customer, sales, and operational data into decisions: KPI design, segmentation, churn/retention analysis, revenue opportunity analysis, ROI evaluation, and interactive Power BI dashboards, backed by solid SQL / ETL / data-modeling fundamentals.
 
-**What I'm extending into:** Data Engineering (ETL, Star Schema), Machine Learning (classification/prediction), and AI Automation (n8n, LLM-powered workflows) — tools I use to make analytics faster and more automated, not a separate identity.
+**What I'm extending into:** Data Engineering (ETL, Star Schema), Machine Learning (classification/prediction), and AI Automation (n8n, LLM-powered workflows) — tools that make analytics faster and more automated, not a separate identity.
 
-**Best examples:** See the four flagship projects below, in order — they tell one consistent story: Business Analytics → Data Pipeline → BI → ML.
+**Best examples:** The four flagship projects below tell one consistent story: Business Analytics → Data Pipeline → BI → ML.
 
 ---
 
@@ -139,59 +140,74 @@ A tuned, interpretable **credit risk classification model**, benchmarked against
 
 ### 📌 About Me
 
-I turn customer and operational data into actionable business decisions — helping organizations understand **what is happening, why, and where to act**.
+I turn customer, sales, and operational data into actionable business decisions — helping organizations understand **what is happening, why, and where to act**.
 
-Since October 2023, I have worked as a freelance **Data Analyst & Business Intelligence Consultant** for Barsian Darou, a pharmaceutical import company. There I build Power BI dashboards for revenue analysis and business performance monitoring, develop HR analytics reports, and translate business reporting requirements into clear KPIs and structured analytical views that improve visibility into revenue trends and workforce indicators.
+Since October 2023, I have worked as a freelance **Data Analyst & Business Intelligence Consultant** for **Barsian Darou**, a pharmaceutical import company in Tehran. I design Power BI dashboards and analytical solutions covering sales performance, revenue analysis, HR analytics, and business performance monitoring. My work also includes KPI development, identifying sales growth opportunities, supporting resource planning and optimization, and ROI analysis to improve operational efficiency and investment decisions.
 
-I also built an **end-to-end analytics platform** using SQL Server, Python ETL, Power BI, and a Star Schema warehouse, based on the Olist Brazilian E-Commerce public dataset. The analysis identified **$2.47M in potential recoverable revenue** from churned high-value customers and translated the findings into actionable retention opportunities. The complete project — warehouse, ETL pipeline, analysis, and Power BI dashboards — is available above under Flagship Projects.
+I also built an **end-to-end analytics platform** using SQL Server, Python ETL, Power BI, and a Star Schema warehouse, based on the Olist Brazilian E-Commerce public dataset. The analysis identified **$2.47M in potential recoverable revenue** from churned high-value customers and translated the findings into concrete retention opportunities.
 
-I started my career in **customer operations at MTN Irancell**, one of the largest telecom operators in the Middle East. After 13 years working closely with customers, products, services, and operational processes, I developed an operational perspective that helps me understand the business context behind the numbers — not just the numbers themselves.
+I started my career in **customer operations at MTN Irancell**, one of the largest telecom operators in the Middle East. After 13+ years working closely with customers, products, services, and operational processes, I developed an operational perspective that helps me understand the business context behind the numbers — not just the numbers themselves. Alongside that full-time role, I built my SQL, Python, Power BI, DAX, ETL, and data-modeling skills through independent, end-to-end analytics projects.
 
 **Core — what I do day-to-day**
 
-- 🎯 **Customer & Business Analytics** — RFM segmentation, churn analysis, retention, revenue opportunity analysis, HR analytics, and root-cause investigation
-- 📊 **Data Analytics** — SQL, Python, Pandas, statistical analysis, and EDA
+- 🎯 **Customer & Commercial Analytics** — RFM segmentation, churn & retention analysis, revenue and sales performance analysis, HR analytics, and root-cause investigation
+- 📊 **Data Analytics** — SQL (SQL Server, PostgreSQL), Python (Pandas, NumPy), Excel, statistical analysis, and EDA
 - 📈 **Business Intelligence** — Power BI, DAX, Power Query, KPI design, and interactive dashboards
+- 🧭 **Business Performance & Optimization** — performance monitoring, resource optimization, ROI analysis, and data-driven decision-making
 
 **Extended capabilities — tools I use to go further**
 
-- 🏗️ **Data Engineering Foundations** — ETL pipelines, SQL Server, Star Schema, dimensional modeling, and data warehouses
+- 🏗️ **Data Engineering Foundations** — ETL pipelines, data cleaning & validation, SQL Server, Star Schema, dimensional modeling
 - 🤖 **Machine Learning** — scikit-learn and LightGBM for classification, prediction, and risk problems
 - ⚡ **AI & Automation** — n8n workflows, LLM integration, and automated reporting
 
-My strength isn't only building dashboards or writing SQL. I combine data skills with 13 years of customer and operational experience to quickly identify what matters, investigate root causes, and translate findings into business actions.
+My strength isn't only building dashboards or writing SQL. I combine data skills with 13+ years of customer and operational experience to quickly identify what matters, investigate root causes, and translate findings into business actions that protect revenue, improve customer experience, and optimize resources.
 
-I'm currently seeking **Data Analyst / BI Analyst opportunities in Germany**, particularly in Customer Analytics, Business Intelligence, Operations Analytics, and related data roles.
+I'm currently seeking **Data Analyst / BI Analyst / Business Data Analyst / Customer & Commercial Analytics opportunities in Germany**.
 
 🌍 Open to relocation to Germany · 💻 Open to remote and hybrid opportunities
-🇬🇧 English: B2 · 🇩🇪 German: Currently learning
+🗣️ **Languages:** Persian (native) · Azerbaijani (native) · Turkish (full professional) · English (professional working, B2) · German (currently learning)
 
 ---
 
 ### 💼 Professional Experience
 
-**Data Analyst & Business Intelligence Consultant (Freelance)** — Barsian Darou, pharmaceutical import company · *Oct 2023 – Present*
+#### Data Analyst & Business Intelligence Consultant (Freelance)
+**Barsian Darou** — pharmaceutical import company, Tehran · *Oct 2023 – Present*
 
-- Develop Power BI dashboards for revenue analysis and business performance monitoring.
-- Build HR analytics reports to help stakeholders review workforce-related indicators and departmental performance.
-- Translate business reporting requirements into clear dashboards, KPIs, and structured analytical views.
-- Support data-driven decision-making by improving visibility into revenue trends, HR indicators, and operational performance.
+*Business Performance & Commercial Analytics — developing data-driven insights, BI solutions, and performance-monitoring systems that support strategic and operational decision-making.*
 
-**Omni-Channel Contact Center Representative** — MTN Irancell · *Jul 2013 – Present*
+- Designed and developed interactive **Power BI dashboards** to monitor business performance, sales trends, revenue streams, and key business indicators (KPIs).
+- Built **sales and revenue analytics** solutions to identify growth opportunities, evaluate sales performance, analyze revenue trends, and support strategies for increasing sales and profitability.
+- Designed **HR analytics dashboards** to monitor workforce performance, HR indicators, and organizational efficiency.
+- Defined and implemented **KPIs and performance measurement frameworks** to improve business visibility and enable data-driven management.
+- Analyzed revenue performance, sales patterns, and business trends to identify gaps, potential risks, and opportunities for sustainable growth.
+- Supported **resource planning and optimization** by analyzing available resources, operational capacity, and business requirements.
+- Conducted **investment and ROI analysis** to evaluate business initiatives, assess resource-allocation efficiency, and support better investment decisions.
+- Translated complex business data into actionable insights and management reports, helping decision-makers understand performance and identify areas for improvement.
+- Applied analytical problem-solving to investigate performance gaps, identify root causes, and recommend practical business improvements.
 
-- Investigate recurring customer complaints, service issues, and gaps between documented procedures and operational practices.
-- Participate in weekly and monthly operational reviews to identify root causes, clarify process ambiguities, and recommend corrective actions.
-- Evaluate customer responses to products and services to identify improvement opportunities and unmet customer needs.
-- Propose at least five improvement ideas per month, with two recommendations implemented through internal improvement processes.
+**Focus areas:** Business Intelligence · Power BI · KPI Development · Sales & Revenue Analytics · HR Analytics · Business Performance Management · Resource Optimization · ROI Analysis
+
+#### Omni-Channel Contact Center Representative
+**MTN Irancell** · *Jul 2013 – Present*
+
+- Supported customers across voice and digital/chat channels in a high-volume telecom environment, handling service requests, complaints, and operational cases with a focus on accuracy, satisfaction, and timely resolution.
+- Investigated recurring customer complaints, product/service issues, and gaps between documented procedures and actual practice to identify root causes and recommend corrective actions.
+- Participated in weekly and monthly operational reviews to discuss recurring issues, service challenges, and process effectiveness.
+- Evaluated customer feedback on existing and newly launched products and services, identifying needs, pain points, service gaps, and unmet opportunities.
+- Proposed at least **five improvement ideas per month**, with **two implemented** through the organization's formal process-improvement program.
+- Collaborated with colleagues and cross-functional teams to clarify procedures, resolve ambiguities in guidelines, and promote consistent process execution.
+- Built practical skills in SQL, Python, Power BI, DAX, ETL, and data modeling alongside full-time operations, connecting real-world customer and operational challenges with modern analytics and BI practices.
 
 ---
 
 ### 🧭 Career Journey
 
 ```
-2012 → Customer Operations → Business Knowledge → Excel & Reporting
+2013 → Customer Operations → Business Knowledge → Excel & Reporting
      → SQL → Python → Power BI → ETL / Data Warehousing
-     → Freelance BI & Analytics (Barsian Darou, 2023)
+     → Freelance BI & Analytics (Barsian Darou, Oct 2023)
      → End-to-End Analytics → Machine Learning → AI Automation → Today
 ```
 
@@ -203,13 +219,13 @@ I'm currently seeking **Data Analyst / BI Analyst opportunities in Germany**, pa
 
 **Analytics & Python:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
-**Data Engineering:** ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) SQLite · Star Schema · ETL
+**Data Engineering:** ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) SQLite · Star Schema · ETL · Data Validation
 
 **Machine Learning:** ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) LightGBM · AutoML
 
 **Automation & AI:** ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) Prompt Engineering · AI Agents
 
-**Development:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) FastAPI · Streamlit · VS Code
+**Development:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) FastAPI · Streamlit · VS Code
 
 **🌱 Currently learning:** Azure · Databricks · PySpark — leveling up toward Cloud & Data Engineering.
 
@@ -217,7 +233,7 @@ I'm currently seeking **Data Analyst / BI Analyst opportunities in Germany**, pa
 
 ### 🚀 More Projects
 
-> 🔥 My four flagship projects (Olist Analytics Platform, Germany Tech Job Market Intelligence, Excel-to-SQL Pipeline, and German Credit Risk Classification) are showcased at the top of this profile — see above.
+> 🔥 My four flagship projects are showcased at the top of this profile.
 
 **Customer & Business Analytics**
 
@@ -237,14 +253,14 @@ I'm currently seeking **Data Analyst / BI Analyst opportunities in Germany**, pa
 | ⭐ [Telecom Competitive Intelligence Platform](https://github.com/pybehnamshayan/n8n_analysis_news_irancell) | AI Automation | Multi-source RSS aggregation · LLM analysis · Executive HTML reports |
 | ⭐ [AI Crypto Investment Advisor](https://github.com/pybehnamshayan/ai-crypto-investment-advisor-n8n) | AI Automation | n8n Agent · Live Crypto Prices · Scenario Analysis · Automated Email Reports |
 
-> 💡 More projects are available on my [repositories page](https://github.com/pybehnamshayan?tab=repositories) — this table will be updated as new projects are added.
+> 💡 More projects are available on my [repositories page](https://github.com/pybehnamshayan?tab=repositories).
 
 ---
 
 ### 🔁 My Analytics Workflow
 
 ```
-Business Problem → Data Collection → Cleaning → EDA
+Business Problem → Data Collection → Cleaning & Validation → EDA
 → SQL → Visualization → Machine Learning → Business Recommendation
 ```
 
@@ -252,9 +268,10 @@ Business Problem → Data Collection → Cleaning → EDA
 
 ### 📈 Business Impact
 
-- Built Power BI dashboards for revenue analysis, business performance monitoring, and HR analytics as a freelance consultant for Barsian Darou (since October 2023).
-- Built end-to-end analytics solutions using star schema data modeling and Power BI dashboards — identified a **+65.8% ($2.47M) revenue opportunity** through customer retention analysis on the Olist dataset.
-- Developed machine learning models for customer segmentation, sales forecasting, and exploratory analysis across multiple domains.
+- **Barsian Darou (since Oct 2023):** Built Power BI dashboards for sales, revenue, business performance, and HR analytics; defined KPI frameworks; supported resource-planning and ROI analysis for management decisions.
+- **Olist (portfolio):** Built an end-to-end analytics solution with star-schema modeling and Power BI — identified a **+65.8% ($2.47M) revenue opportunity** through customer retention analysis.
+- **MTN Irancell:** Proposed 5+ improvement ideas per month, with 2 implemented through the formal process-improvement program.
+- Developed machine learning models for customer segmentation, sales forecasting, and credit-risk classification.
 - Built AI-powered automation workflows with n8n — combining API integration and prompt engineering to collect, analyze, and report data automatically.
 - Bridged 13+ years of operational/customer knowledge with modern data analytics tooling.
 
@@ -270,7 +287,7 @@ Business Problem → Data Collection → Cleaning → EDA
 
 ---
 
-### 🎓 Education
+### 🎓 Education & Certifications
 
 | Degree | Field | GPA |
 |---|---|---|
@@ -278,6 +295,8 @@ Business Problem → Data Collection → Cleaning → EDA
 | 📘 Associate's Degree | Civil Engineering | 17 / 20 |
 
 <p align="center"><i>An engineering foundation in analytical thinking, later applied to data & business analytics.</i></p>
+
+**Certifications:** SQL Fundamentals · Power BI · Microsoft Excel · Machine Learning Fundamentals
 
 ---
 
@@ -313,5 +332,6 @@ Business Problem → Data Collection → Cleaning → EDA
 <p align="center">
   <a href="https://www.linkedin.com/in/behnam-shayan-49b2612ba/?skipRedirect=true">LinkedIn</a> ·
   <a href="https://github.com/pybehnamshayan">GitHub</a> ·
+  <a href="https://behnamshayan.netlify.app/">Portfolio</a> ·
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pybehnamshayan@gmail.com">Email</a>
 </p>
